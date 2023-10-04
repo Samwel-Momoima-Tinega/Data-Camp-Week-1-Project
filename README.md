@@ -1,8 +1,7 @@
 ## Data Camp Week 1 Project
 As a Product Data Scientist at Instagram, measuring the success of the Instagram TV product would involve both quantitative and qualitative analysis to draw insights on its performance and user satisfaction as explained below:
 ### Quantitative Analysis
-1. User Engagement
-   This includes the following:
+1. User Engagement, which includes the following:
 - Number of views: this will indicate the popularity and visibility of the content being shared
 - How long the users watched; this will help predict content relevance, user experience and determine the capability of advertisement
 - How many times the users watched: this will indicate how welll the content is resonating with the users
