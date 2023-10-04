@@ -7,8 +7,10 @@ As a Product Data Scientist at Instagram, measuring the success of the Instagram
 - How many times the users watched: this will indicate how welll the content is resonating with the users
 - Number of likes, shares and comments: this will help Instagram algorithm to determine what content to prioritize in user's feed, which can lead to exposure to a large audience 
 2. User Demographics
+  
 This includes the age, gender and location of the users, as well as what kind of content they were actively engaged in. User demographics will help to identify the target audience for specific content and also determine the advertisement strategies to be used.
 3. Monetization Data
+
 This includes the amount of ad revenue generated and how many users were converted into customers from affiliated links. This will help understand how effectively the Instagram TV is generating revenue through the various advertisements. This will also help determine user engagement with advertisements. 
 ### Qualitative Analysis 
 This will include the following:
